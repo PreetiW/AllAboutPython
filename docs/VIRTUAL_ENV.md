@@ -11,7 +11,7 @@ There are few ways how we can create virtual envrionment in Python:
 python -m venv [venv_name]
 
 // To activate the virtual envrionment
-source [venv_name]/bin/activate or . [venv_name]/bin/activate
+source [venv_name]/bin/activate OR . [venv_name]/bin/activate
 
 
 // To diactivate the virtual envrionment
