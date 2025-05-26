@@ -1,12 +1,9 @@
 # All About Python
 
-### IDEs
-* [Thonny](https://thonny.org/) - This is a great IDE for beginners. It will help you understand how code is executed line by line. 
+## IDEs
+* [VS Code](https://code.visualstudio.com/)
 
 
+## Basics
 
-### Basic Functions
-
-* print 
-* input
-* len
+* [Python Virtual Envrionment](./docs/VIRTUAL_ENV.md)
